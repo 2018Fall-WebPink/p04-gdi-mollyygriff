@@ -1,0 +1,36 @@
+/*
+* Molly Griffin
+* 12/3/18
+* Girl Develop It
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+
+
+body {background-color: #FAE3E0;
+}
+#Logo { width:700px; height:200px; }
+
+
+
+
+header 
+{text-align: center; background:#F1636A;}
+ 
+footer {clear:both;}
+
+
+h1 {font-family: cursive;text-decoration:underline;}
+p {font-family:sans-serif;}
+h2{font-family: cursive;text-decoration:underline;}
+
+
+#NotBF { width:350px; height:250px; float: right;}
+#LaptopGirl {width:350px; height:250px; float: right;}
